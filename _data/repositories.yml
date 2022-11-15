@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - loreberli
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - LoreBerli/VHSRestoration
+  - LoreBerli/3DVPCC
+  - LoreBerli/vis2therm

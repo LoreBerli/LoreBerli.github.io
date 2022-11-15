@@ -15,13 +15,13 @@
       institution: Media Integration and Communication Center (MICC), Università degli studi di Firenze
       year: 2019 - 2022
       description:
-        - Area - Pattern Recognition and Computer Vision
-        - Subject- Object detection, Action recognition
+        - Area - Computer Vision
+        - Subject- Generative Models for dataset augmentation
         - Advisor - Prof. Alberto Del Bimbo
         - title: Description 3.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Dataset augmentation strategies for data-scarce tasks
+            - Development of generative models for data augmentation
     - title: Master’s degree in Computer Engineering
       institution: Università degli studi di Firenze
       year: 2019
@@ -40,7 +40,7 @@
       institution: Università degli Studi di Firenze
       year: 2016 - 2017
       description:
-          - University - High School project, Università degli Studi di Firenze
+          - University - High School collaboration project, Università degli Studi di Firenze
 
     - title: Research fellow
       institution: Media Integration and Communication Center (MICC), Università degli Studi di Firenze.
