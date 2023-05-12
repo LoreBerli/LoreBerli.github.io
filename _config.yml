@@ -76,7 +76,7 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Lorenzo-Berlincioni # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://www.micc.unifi.it/people/lorenzo-berlincioni/ # work page URL
 keybase_username: # your keybase user name
@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach me by ma work email at lorenzo.berlincioni@unifi.it.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: cioni # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: ML,Python and related stuff
 permalink: /blog/:year/:title/
 
 # Pagination
