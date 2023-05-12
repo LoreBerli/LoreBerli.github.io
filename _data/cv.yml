@@ -46,7 +46,7 @@
       institution: Media Integration and Communication Center (MICC), Università degli Studi di Firenze.
       year: 2017-2018
       description:
-        - Subject: Studio e sviluppo di tecniche di accrescimento di dataset di immagini e video
+        - Subject - Studio e sviluppo di tecniche di accrescimento di dataset di immagini e video
 
 
 # - title: Open Source Projects
@@ -70,14 +70,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Generative models
+    - title: NLP
+    - title: Graph convolutional networks
+    - title: 3D point cloud
 
 # - title: Other Interests
 #   type: list
