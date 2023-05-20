@@ -2,7 +2,7 @@
 layout: post
 title:  "Identity Crisis: Memorization and Generalization under Extreme Overparameterization - ICRL2020"
 date:   2021-02-04 10:13:32 +0100
-categories: [papers, theory, overparameterization]
+categories: papers research
 ---
 
 

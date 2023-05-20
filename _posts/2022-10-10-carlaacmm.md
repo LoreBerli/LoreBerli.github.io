@@ -3,6 +3,7 @@ layout: post
 title:  "Autonomous driving research with CARLA simulator"
 description: Brief tutorial for CARLA simulator
 date:   2022-10-10 10:13:32 +0100
+tags: software, python, machine learning
 categories: software research synthetic-data
 ---
 **This is a short version of my article published [here](https://records.sigmm.org/?open-source-item=autonomous-driving-research-with-carla-simulator)**
