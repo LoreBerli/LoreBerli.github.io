@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore docs files
 _gh_pages
 _site
@@ -40,3 +41,16 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+=======
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+vendor
+
+>>>>>>> 46d108d6f8f16cdf1fe5f1f3a4b529dae78617d0
