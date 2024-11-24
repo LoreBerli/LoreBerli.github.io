@@ -35,5 +35,4 @@ Event camera valence and arousal estimation [Paper](https://scholar.google.it/ci
 
 Facemorphic: Event camera Action Units [Paper](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=ty0aAwQAAAAJ&citation_for_view=ty0aAwQAAAAJ:LkGwnXOMwfcC)
 
-
 Currently working on diffusion models for conditional image generation and graph convolutional networks for 3D point cloud upscaling.
